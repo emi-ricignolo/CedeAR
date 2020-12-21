@@ -22,7 +22,7 @@ What would be great to add:
 
 This is the app:
 
-![gif](https://i.imgur.com/ZfdKC8u.gif)
+![gif](https://i.imgur.com/SBmKJxD.gif)
 
 **Español:**
 
