@@ -40,4 +40,4 @@ Features a agregar:
 - Actualizar al scrollear hacia arriba
 - API sin límite de pago
 
-Creada por Emiliano Ricignolo
+*Creada por Emiliano Ricignolo*
